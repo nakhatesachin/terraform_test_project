@@ -12,8 +12,8 @@ version    = ">=2.10,<=2.30"
 ```sh
 provider "aws" {
   region     = "us-west-2"
-  access_key = "YOUR-ACCESS-KEY"
-  secret_key = "YOUR-SECRET-KEY"
+  access_key = ""
+  secret_key = ""
   version    = ">=2.10,<=2.30"
 }
 
