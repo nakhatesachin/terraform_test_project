@@ -1,4 +1,4 @@
-# terraform
+# Terraform
 Section 1 - Deploying Infrastructure with Terraform
 # Domain  - Deploying Infrastructure with Terraform
 
